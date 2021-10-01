@@ -1,5 +1,4 @@
-#University Website
-#And Here is the Home page of my website
+Universit/College Website
 ![Screenshot (22)](https://user-images.githubusercontent.com/78437156/135642903-35a6dbf2-295d-4186-bba6-2f5e0f936e92.png)
 
 
